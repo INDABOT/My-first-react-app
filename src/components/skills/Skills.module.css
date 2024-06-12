@@ -1,0 +1,15 @@
+.skills_container{
+    max-width: 72vw;
+    margin: 13.75rem auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 3.63rem;
+    border-top: 2px solid #d9d9d9;
+    padding-top: 4.5rem;
+}
+.rings{
+    position: absolute;
+    transform: rotateY(140deg);
+    right: -3rem;
+    top: 103%;
+}

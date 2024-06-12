@@ -1,0 +1,21 @@
+.projectCard h3{
+    color: #fff;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 2rem;
+    margin: 1.25rem 0 0.44rem;
+}
+.tags{
+    display: flex;
+    align-items: center;
+    gap: 1.13rem;
+
+}
+.tags p{
+    color: #fff;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.75rem;
+
+}

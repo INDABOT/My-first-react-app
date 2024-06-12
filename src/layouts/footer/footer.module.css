@@ -1,0 +1,36 @@
+footer{
+    background-color:#242424;
+    width: 100vw;
+    padding-bottom: 4rem;
+    position: relative;
+}
+.footer{
+    display:  flex;
+    justify-content: space-between;
+    align-items:  center;
+    max-width: 72vw;
+    margin: 0 auto;
+    padding-top: 2.44rem;
+    border-top: 1px solid gray;
+}
+
+
+h2{
+    color: #fff;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 2rem;
+    letter-spacing: -0.02775rem;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    z-index: 12;
+} 
+.Fring{
+    position: absolute;
+    top: -10rem;
+    left: -4.5rem;
+}

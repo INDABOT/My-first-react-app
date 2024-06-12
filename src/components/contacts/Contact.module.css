@@ -1,0 +1,60 @@
+.contact {
+  margin-top: 8rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  width: 100vw;
+  background-color: #242424;
+}
+.Contact_section {
+  position: relative;
+  display: flex;
+  gap: 9vw;
+  max-width: 72vw;
+  height: 20.4375rem;
+  margin: 0 auto;
+}
+.Contact_section h3 {
+  color: #fff;
+  font-size: 5.5rem;
+}
+.Contact_section p {
+  width: 27.8125rem;
+  color: #d9d9d9;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.75rem;
+  margin-top: 2.31rem;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  background-color: transparent;
+  width: 27.8rem;
+  color: #fff;
+  border: none;
+  border-bottom: 1px solid gray;
+  margin: 1rem 0;
+}
+.last_input {
+  height: 3rem;
+  background-color: transparent;
+  width: 27.8rem;
+  color: #fff;
+  border: none;
+  border-bottom: 1px solid gray;
+  margin: 1rem 0;
+}
+
+label {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+.btnD {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
